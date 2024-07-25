@@ -1,4 +1,6 @@
-package com.example;
+package test.demo.src.main.java.com.example;
+
+;
 
 public class Dog {
     public void bark() {

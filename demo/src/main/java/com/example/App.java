@@ -1,9 +1,5 @@
-package com.example;
+package test.demo.src.main.java.com.example;
 
-/**
- * Hello world!
- *
- */
 public class App {
     public static void main(String[] args) {
         Dog myDog = new Dog();
